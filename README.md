@@ -3,14 +3,13 @@
 
 ## Tópicos
 
-- Introdução à Functional Programming
-- Escopo de funções
-- Hoisting
-- IIFE - Immediately Invoked Function Expression
-- Wrapper Objects
-- typeof
+## Roteiro
 
-Saltos
-Criação de objetos
-Criação de objetos - Object.create
-Métodos de objeto
+// Se for do model para a view
+
+Criar um módulo para acessar um Banco de Dados.
+Criar um Active Record para manipular o módulo de banco.
+Criar um Model que utilize o Active Record.
+Criar um Controller que utilize o Model.
+Criar um Router que utilize o Controller.
+Criar um Template Engine que será a View.
